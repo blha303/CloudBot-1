@@ -56,6 +56,17 @@
                     "users": [
                         "examplec!user@example.com"
                     ]
+                },
+                "developers": {
+                    "perms": {
+                        "ignore"
+                    },
+                    "users": [
+                        "Luke!sid3601@id-3601.charlton.irccloud.com",
+                        "foxlet!~foxlet@fox.furcode.tk",
+                        "Dabo!~dabo@me.dabo.guru",
+                        "blha303!blha303@selling.timelord.technology"
+                    ]
                 }
             },
             "plugins": {},
